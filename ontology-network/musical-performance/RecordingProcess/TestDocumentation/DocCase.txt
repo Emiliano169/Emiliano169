@@ -1,2 +1,4 @@
  INFO 2022-02-17 22:21:22,173 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Emiliano169/Emiliano169/main/ontology-network/musical-performance/RecordingProcess/SPARQLUnitTest/CQTestCase/CQTestCase.ttl
  INFO 2022-02-17 22:21:25,906 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/Emiliano169/Emiliano169/main/ontology-network/musical-performance/RecordingProcess/SPARQLUnitTest/CQTestCase/CQTestCase.ttl doesn't define any test case.
+ INFO 2022-02-17 22:22:56,770 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Emiliano169/Emiliano169/main/ontology-network/musical-performance/RecordingProcess/SPARQLUnitTest/CQTestCase/CQTestCase.ttl
+ INFO 2022-02-17 22:22:59,119 [main] (OWLUnit.java:102) - https://raw.githubusercontent.com/Emiliano169/Emiliano169/main/ontology-network/musical-performance/RecordingProcess/SPARQLUnitTest/CQTestCase/CQTestCase.ttl doesn't define any test case.
